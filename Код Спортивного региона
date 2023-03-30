@@ -2639,3 +2639,4 @@ class RequestParameterMapUtil {
 			throw new IllegalStateException(String.format("Unexpectedly cannot instantiate a new instance of %s", clazz));
 		}
 	}
+}
